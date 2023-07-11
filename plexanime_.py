@@ -4,7 +4,7 @@ from wait_keypress import wait_for_keypress
 from moviepy.video.io.VideoFileClip import VideoFileClip
 
 # Paths
-src_path = "/home/maipley/anime"
+src_path = "/home/anime/anime"
 movies_path = "/plex/anime/movies"
 series_path = "/plex/anime/series"
 ext = ".mp4", ".mkv"
